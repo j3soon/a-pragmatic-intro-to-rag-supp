@@ -3,7 +3,8 @@
 This repo contains supplementary materials for the talk "A Pragmatic Introduction to Retrieval-Augmented-Generation (RAG)".
 
 1. Hands-on code for RAG [[here](https://github.com/Squirtle007/Retrieval-Augmented_Generation)]
-2. Going Further
+2. [GitHub Student Developer Pack](https://education.github.com/pack)
+3. Going Further
    - [NVIDIA/GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples)
      - [RAG in 5 minutes example](https://github.com/NVIDIA/GenerativeAIExamples/tree/main/examples)
    - [Building RAG Agents with LLMs](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-15+V1/)
